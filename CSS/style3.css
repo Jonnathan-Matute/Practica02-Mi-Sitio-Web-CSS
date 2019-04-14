@@ -15,17 +15,22 @@ article {
 	width: 25%;
 }
 
-.aside2 {
-	float: left;
-	width: 30%;
-}
-
 #seccion header {
 	width: 100%;
 	clear: both;
 }
 
 #seccion {
+	float: left;
+	width: 77%;
+	margin-left: 2%;
+}
+#seccion2 {
+	float: left;
+	width: 60%;
+	margin-left: 1%;
+}
+#seccion3 {
 	float: left;
 	width: 77%;
 	margin-left: 2%;
