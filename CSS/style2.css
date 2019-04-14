@@ -1,0 +1,22 @@
+nav {
+	clear: both;
+	float: left;
+	width: 20%;
+}
+
+#seccion header {
+	width: 100%;
+	clear: both;
+}
+
+#seccion {
+	float: left;
+	width: 78%;
+	margin-left: 2%;
+}
+
+#seccion2 {
+	float: left;
+	width: 60%;
+	margin-left: 2%;
+}

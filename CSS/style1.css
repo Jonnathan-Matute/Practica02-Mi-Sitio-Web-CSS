@@ -1,0 +1,150 @@
+* {
+	font-family: Times;
+}
+
+a {
+	text-decoration-line: none;
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	font-weight: bold;
+}
+
+aside {
+	border: 0.1px solid;
+	padding: 0px 15px;
+	margin-top: 5px;
+}
+
+aside li {
+	font-size: 14px;
+}
+
+img {
+	max-width: 100%;
+	border-width:1px;
+	border-color: black;
+}
+
+footer {
+	text-align: center;
+	clear: both;
+	background-image: url("../images/catedral2.png");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: top;
+	color: white;
+}
+
+footer a {
+	color: white !important; 
+}
+
+footer em {
+	font-size: 12px;
+}
+
+td input {
+	width: 500px;
+	padding-top: 10px;
+}
+
+h1 {
+	font-size: 46px;
+}
+
+h2 {
+	font-size: 32px;
+}
+
+h3 {
+	font-size: 24px;
+	text-decoration: underline;
+}
+
+h4 {
+	font-size: 20px;
+}
+
+h5 {
+	font-size: 16px;
+}
+
+h6 {
+	font-size: 14px;
+}
+
+header div {
+	width: 100%;
+}
+
+header h1 {
+	color: white;
+	text-align: center;
+}
+
+header img {
+	width: 150px;
+	float: left;
+	padding: 20px 0px 0px 50px;
+}
+
+nav {
+	background-color:  rgba(230, 177, 78, 0.3);
+	border-bottom-left-radius: 1px;
+	border-bottom-right-radius: 1px;
+}
+
+nav a {
+	padding: 5px 3px;
+	width: 10%;
+	display: block;	
+}
+
+nav a:active {
+	background-color:red;
+	color: white;
+}
+
+nav h3 {
+	background-color: rgb(0, 0, 0);
+	padding: 15px 30px;
+	margin-top: 0px;
+	color: white;
+}
+
+nav li:active {
+	background-color: red;
+	color: white;
+}
+
+tr, th, td {
+	border: 0.3px solid;
+}
+
+#tabla1 {
+	border: 0.3px solid;
+	text-align: center;
+	width: auto;
+}
+
+
+#top {
+	background-image: url(../images/DeportivoC.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: top;
+}
+
+#pie {
+	padding-top: 1%;
+	background-color: red;
+}
+
+
+.Video {
+	width: 560px;
+	height: 315px;
+}
